@@ -28,7 +28,7 @@ The Fitness Tracker Application provides users with the capability to log their 
 - JWT for secure authentication
 - Postman for API testing
 
-# Setup Guide
+## Setup Guide
 
 ### Requirements
 
@@ -42,21 +42,21 @@ git clone https://github.com/your-username/fitness-tracker-backend.git
 cd fitness-tracker-backend
 
 
-# Installing Dependencies
+## Installing Dependencies
 npm install
 
-# Create a .env file with the following configuration:
+## Create a .env file with the following configuration:
 
-# Database Configuration
+## Database Configuration
 MONGO_URL=mongodb://<username>:<password>@your-mongodb-url:27017/fitness-tracker
 
-# JWT Secret Key
+## JWT Secret Key
 JWT_SECRET=your_jwt_secret_key
 
-# Launching the Server
+## Launching the Server
 PORT=5000
 
-# Start the Server
+## Start the Server
 npm start
 
 # Acknowledgements
