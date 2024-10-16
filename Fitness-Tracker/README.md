@@ -28,7 +28,7 @@ The Fitness Tracker Application provides users with the capability to log their 
 - JWT for secure authentication
 - Postman for API testing
 
-##  Setup Guide
+# Setup Guide
 
 ### Requirements
 
